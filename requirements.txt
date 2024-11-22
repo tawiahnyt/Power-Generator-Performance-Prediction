@@ -1,0 +1,11 @@
+# Data manipulation and numerical operations
+pandas
+numpy
+
+# Machine learning models and evaluation
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
